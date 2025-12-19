@@ -6,3 +6,6 @@ My name is Afifuddin. I am an aspiring Junior Software Tester with a background 
 I strongly believe that high-quality software is a key factor in delivering reliable and valuable products. Through online testing courses and hands-on practice, I have gained experience in manual testing, including test case creation, test scenario design, and bug reporting using industry-standard tools. I am detail-oriented, analytical, and committed to ensuring software functions as expected from a user’s perspective.
 
 In addition to my technical skills, I have developed strong communication, teamwork, and problem-solving abilities, which help me collaborate effectively with different stakeholders. I am highly motivated to continuously learn and improve, and I am currently seeking a Junior Software Tester / QA position where I can contribute my skills while growing professionally in the field of software testing.
+
+# CV
+[Download My Cv]([https://afifuddinmr.github.io](https://drive.google.com/drive/u/0/folders/1uFIYcJCzNKvQaROqzXicnLvwdSUv70HT))  

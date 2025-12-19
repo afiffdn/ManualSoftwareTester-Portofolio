@@ -8,4 +8,4 @@ I strongly believe that high-quality software is a key factor in delivering reli
 In addition to my technical skills, I have developed strong communication, teamwork, and problem-solving abilities, which help me collaborate effectively with different stakeholders. I am highly motivated to continuously learn and improve, and I am currently seeking a Junior Software Tester / QA position where I can contribute my skills while growing professionally in the field of software testing.
 
 # CV
-[View Test Case Document (Google Drive)](https://drive.google.com/file/d/1AbCDefGhIjK/view?usp=sharing) 
+[View My CV (Google Drive)](https://drive.google.com/file/d/1cD-oTsDQ2220YXpqKpS9DM5HvqSFGxAC/view?usp=sharing) 

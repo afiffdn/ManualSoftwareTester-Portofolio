@@ -74,3 +74,9 @@ TestRail, Postman, and the basic concepts
 of Selenium. <br>
 [Link To Certificate](https://drive.google.com/file/d/1tTOozzjW37Uvsez_1E_CG9dbmK6D1AYe/view?usp=sharing)
 
+# EXAMPLE OF MY WORK
+
+Test Case In Excel
+- [Growia Shop](https://jealous-manager-20a.notion.site/Growia-Shop-1bb70290550a805a83c4d31c64df9b49?source=copy_link)
+
+
